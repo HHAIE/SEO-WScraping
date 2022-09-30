@@ -1,0 +1,16 @@
+nltk
+wordcloud
+json
+re
+threading
+requests
+BeautifulSoup
+urllib
+WordNetLemmatizer
+stopwords
+nltk.stem
+nltk.corpus
+FreqDist
+nltk.probability
+plt
+matplotlib.pyplot
